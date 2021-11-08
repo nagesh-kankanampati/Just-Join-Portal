@@ -229,8 +229,8 @@ if ($roleAccess < 0) {
         }
         ?>
     <div class="container pt-130">
-    <div class="panel employee-panel-primary">
-      <div class="panel-heading">Realestate Buyer </div>      
+    <div class="panel employer-panel-primary">
+      <div class="panel-heading">Realestate Seller </div>      
     </div>
     <div class="row m-0 collapse_bar shadow-sm bg-white rounded">
         <div class="col-md-3 col-xs-3">
