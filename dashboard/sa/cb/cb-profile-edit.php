@@ -114,7 +114,7 @@ if ($roleAccess < 0) {
         foreach($result as $row)
         {
     ?>
-    <div class="panel employer-panel-primary date-of-reg">
+    <div class="panel employee-panel-primary date-of-reg">
       <div class="panel-heading">Employee id: JJIN<?php echo $id?><p>Registered on: <?php echo $row['submit_date']?></div>
       <!-- <input type="hidden" id="employerID" value="<?php echo $id?>"> -->
     </div>
