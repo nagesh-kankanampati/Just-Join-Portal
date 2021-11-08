@@ -585,10 +585,10 @@ if ($roleAccess < 0) {
     <section class="container">
         <div class="row">
             <div class="col-md-3 col-xs-4 d-flex align-items-center">
-                <div class="total">Total New: <span id="newArrival">0</span></div>
+                <div class="total">Total Unread: <span id="newArrival">0</span></div>
             </div>
             <div class="col-md-3 col-xs-4 d-flex align-items-center">
-                <div class="total">Today New: <span id="todayNewArrival">0</span></div>
+                <div class="total">Today Unread: <span id="todayNewArrival">0</span></div>
             </div>
         </div>
         <div class="row">
