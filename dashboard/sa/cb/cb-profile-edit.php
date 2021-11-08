@@ -119,7 +119,7 @@ if ($roleAccess < 0) {
       <!-- <input type="hidden" id="employerID" value="<?php echo $id?>"> -->
     </div>
 
-    <form id='carBuyer' class="employer-form">
+    <form id='carBuyer' class="employee-form">
     <input type="hidden" name="employerID" id="employerID" value="<?php echo $id?>">
     <div class="form-row">
         <div class="form-group col-md-6">

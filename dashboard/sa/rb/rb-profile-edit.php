@@ -118,7 +118,7 @@ if ($roleAccess < 0) {
       <input type="hidden" id="employerID" value="<?php echo $id?>">
     </div>
 
-    <form id='propertyBuyer' class="employer-form">
+    <form id='propertyBuyer' class="employee-form">
     <div class="form-row">
         <div class="form-group col-md-6">
           <label for="propertyBuyerName">First Name<span class="mandatory">*</span></label>
