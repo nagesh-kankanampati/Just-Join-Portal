@@ -63,7 +63,7 @@ if ($roleAccess < 0) {
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top ">
       <div class="container d-flex align-items-center">
-          <h1 class="logo mr-auto"><a href="/JJ/index.html"><img src="../../../assets/img/logo-trim.png"></a></h1>
+          <h1 class="logo mr-auto"><a href="/"><img src="../../../assets/img/logo-trim.png"></a></h1>
         <!--  <nav class="nav-menu d-none d-lg-block">
             <ul>         
                 <li><a href="./saep-dashboard.php" class="btn btn-danger btn-block">Employee</a></li>
