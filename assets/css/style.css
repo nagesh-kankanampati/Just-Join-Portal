@@ -475,22 +475,7 @@ li .employee-btn, li .employer-btn,li .employee-btn:hover, li .employer-btn:hove
   color: #fff;
 } */
 
-@media (max-width: 768px) {
-  .carousel-item{height:344px;}
-  .employer-btn {
-    margin: 0 20px 0 0;
-    padding: 6px 16px 7px 16px;
-    min-width: 160px;
-    text-align: center;    
-  }
-  .employee-btn {
-    margin: 0 20px 0 0;
-    padding: 6px 16px 7px 16px;
-    min-width: 160px;
-    text-align: center;
-  }
-  .pleft-5{padding-left:0px;}
-}
+
 
 /* Mobile Navigation */
 .mobile-nav-toggle {
@@ -1201,7 +1186,23 @@ section {
     justify-content: flex-end;
   }
 }
-
+@media (max-width: 768px) {
+  #hero .container {padding-top: 75px;}
+  .carousel-item{height:344px;}
+  .employer-btn {
+    margin: 0 20px 0 0;
+    padding: 6px 16px 7px 16px;
+    min-width: 160px;
+    text-align: center;    
+  }
+  .employee-btn {
+    margin: 0 20px 0 0;
+    padding: 6px 16px 7px 16px;
+    min-width: 160px;
+    text-align: center;
+  }
+  .pleft-5{padding-left:0px;}
+}
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
