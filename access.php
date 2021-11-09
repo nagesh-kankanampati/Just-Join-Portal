@@ -92,7 +92,7 @@ if ($roleAccess != 1) {
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center">
-            <h1 class="logo mr-auto"><a href="/JJ/index.html"><img src="./assets/img/logo-trim.png"></a></h1>
+            <h1 class="logo mr-auto"><a href="/"><img src="./assets/img/logo-trim.png"></a></h1>
            <!-- <nav class="nav-menu d-none d-lg-block">
                 <ul>
                 <li class="pt-0 pl-0">  <a href="javascript:void(0)" class="employer-btn scrollto"></a></li>

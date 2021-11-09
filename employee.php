@@ -51,8 +51,8 @@
       
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="/JJ/index.html#about">About </a> </li>         
+          <li class="active"><a href="/">Home</a></li>
+          <li><a href="/#about">About </a> </li>         
           <li class="drop-down scrolltoDrop"><a>Services</a>
             <ul>
               <li class="drop-down scrolltoDrop"><a>Staffing Solutions</a> 
@@ -61,13 +61,13 @@
                   <li class="drop-down"><a href="/JJ/index.html#employee">Employee</a></li>
                 </ul>-->
               </li>
-              <li class="drop-down"><a href="/JJ/index.html#realestate">Real Estate</a></li>
-              <li class="drop-down"><a href="/JJ/index.html#carzone">Pre-Owned Cars</a></li>
+              <li class="drop-down"><a href="/#realestate">Real Estate</a></li>
+              <li class="drop-down"><a href="/#carzone">Pre-Owned Cars</a></li>
               </ul>
           </li>    
           <li><a href="#contact">Contact</a></li>    
 
-        <li class="redirectPage"><a class="employee-btn" href="./registration.html"> Registration </a>
+        <li class="redirectPage"><a class="employee-btn" href="/registration.html"> Registration </a>
         <!--  <ul>
             <li class="drop-down pt-0 pl-0"> <a href="employer.php" class="menu-employer-btn scrollto">Looking Employee?</a></li>
             <li class="drop-down pt-0 pl-0"><a href="employee.php" class="menu-employee-btn scrollto">Need Job?</a></li>
@@ -306,20 +306,20 @@
        <div class="col-lg-3 col-md-6 footer-links">
          <h4>Useful Links</h4>
          <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/index.html">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/#about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/employer.php">Looking Employee?</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/employee.php">Need Job?</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/employer.php">Looking Employee?</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/employee.php">Need Job?</a></li>
             </ul>
        </div>
 
        <div class="col-lg-3 col-md-6 footer-links">
          <h4>Our Services</h4>
          <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/#manpower">Staffing Solutions</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/#realestate">Real Estate</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/JJ/#carzone">Pre-Owned Cars</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#manpower">Staffing Solutions</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#realestate">Real Estate</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#carzone">Pre-Owned Cars</a></li>
             </ul>
        </div>
 
