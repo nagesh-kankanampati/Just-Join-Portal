@@ -360,7 +360,7 @@
         &copy; Copyright <strong><span>Just Join</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="https:www.justjoin.in">Just Join</a>
+        Designed by <a href="https://just-join.in/">Just Join</a>
       </div>
     </div>
   </footer><!-- End Footer -->

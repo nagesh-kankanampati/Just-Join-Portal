@@ -145,7 +145,7 @@ if (!isset($_SESSION["username"])) {
             </div>
             <div class="credits">
               
-                Designed by <a href="https:www.justjoin.in">Just Join</a>
+                Designed by <a href="https://just-join.in/">Just Join</a>
             </div>
         </div>
     </footer>-->
