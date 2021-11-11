@@ -204,7 +204,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" id="gridCheck">
           <label class="form-check-label pl-4" for="gridCheck">
-            &nbsp;Check me out
+            &nbsp;Please confirm  the above data before submitting
           </label>
         </div>
       </div>
