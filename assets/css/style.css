@@ -5,7 +5,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
-.pt-130{padding-top:130px;}
+.pt-130{padding-top:70px;}
 .btn-danger:not(:disabled):not(.disabled):active{background-color: transparent;text-decoration: underline;color: #362B2B;}
 .btn-danger,.btn-danger:hover{color: #362B2B;background-color: transparent;border:0px;text-decoration: underline;}
 .btn-danger:focus{background-color: transparent; border: 0px;text-decoration: underline;}
