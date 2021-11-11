@@ -93,13 +93,13 @@ if ($roleAccess != 1) {
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center">
             <h1 class="logo mr-auto"><a href="/"><img src="./assets/img/logo-trim.png"></a></h1>
-           <!-- <nav class="nav-menu d-none d-lg-block">
+           <!-- <nav class="nav-menu d-none d-xl-block">
                 <ul>
                 <li class="pt-0 pl-0">  <a href="javascript:void(0)" class="employer-btn scrollto"></a></li>
                  <li class="pt-0 pl-0"><a href = "./snippets/logout.php" class="employee-btn scrollto">Logout</a></li>
                 </ul>
             </nav>-->
-           <!-- <nav class="nav-menu d-none d-lg-block">
+           <!-- <nav class="nav-menu d-none d-xl-block">
                 <ul>                
                     <li><a href="./dashboard/sa/ep/saep-dashboard.php" class="btn employee btn-block">Employee</a></li>
                     <li><a href="./dashboard/sa/er/saer-dashboard.php" class="btn employer btn-block">Employer</a></li>
@@ -108,7 +108,7 @@ if ($roleAccess != 1) {
                     <li class="pt-0 pl-0"><a href = "./snippets/logout.php" class="employee-btn scrollto">Logout</a></li>
                 </ul>
             </nav>-->
-            <nav class="nav-menu d-none d-lg-block">
+            <nav class="nav-menu d-none d-xl-block">
                     <ul>
                     <li class="drop-down scrolltoDrop"><a href="#">Staffing Solutions</a> 
                         <ul>

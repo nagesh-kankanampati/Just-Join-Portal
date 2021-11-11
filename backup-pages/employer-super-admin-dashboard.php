@@ -54,7 +54,7 @@ if (!isset($_SESSION["username"])) {
         <header id="header" class="fixed-top ">
             <div class="container-fluid custom-flex">
                 <h1 class="logo mr-auto"><a href="/JJ/index.html"><img src="../assets/img/logo-trim.png"></a></h1>
-                <nav class="nav-menu d-none d-lg-block">
+                <nav class="nav-menu d-none d-xl-block">
                     <ul>
                     <li class="pt-0 pl-0">  <a href="javascript:void(0)" class="employer-btn scrollto"><?php echo $_SESSION["username"]?></a></li>
             <li class="pt-0 pl-0"><a href = "../snippets/logout.php" class="employee-btn scrollto">Logout</a></li>

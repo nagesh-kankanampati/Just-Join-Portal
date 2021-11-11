@@ -98,7 +98,7 @@ if ($roleAccess < 0) {
         <div class="container d-flex align-items-center">
             <h1 class="logo mr-auto"><a href="../../../index.html"><img src="../../../assets/img/logo-trim.png"></a></h1>
           
-          <!--  <nav class="nav-menu d-none d-lg-block">
+          <!--  <nav class="nav-menu d-none d-xl-block">
                 <ul>                
                     <li><a href="./saep-dashboard.php" class="btn btn-danger btn-block">Employee</a></li>
                     <li><a href="../er/saer-dashboard.php" class="btn btn-block employee">Employer</a></li>
@@ -107,7 +107,7 @@ if ($roleAccess < 0) {
                     <li class="pt-0 pl-0 pb-0"><a href = "../../../snippets/logout.php" class="employee-btn scrollto">Logout</a></li>
                 </ul>
               </nav>-->
-              <nav class="nav-menu d-none d-lg-block">
+              <nav class="nav-menu d-none d-xl-block">
                     <ul>
                       <li class="drop-down scrolltoDrop"><a href="#">Staffing Solutions</a> 
                         <ul>
@@ -523,7 +523,7 @@ if ($roleAccess < 0) {
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 col-xs-12">
+            <div class="col-md-3 col-xs-12">
             <div class="form-outline">
                 <input type="search" id="search_key" class="form-control" placeholder="Search record.."
                 aria-label="Search" />
@@ -538,7 +538,7 @@ if ($roleAccess < 0) {
             <div class="col-md-2 col-xs-4 d-flex align-items-center">
                 <div class="total">Pending: <?php echo $inLen?></div>
             </div>
-            <div class="col-md-2 col-xs-4 d-flex align-items-center">
+            <div class="col-md-3 col-xs-4 d-flex align-items-center">
                 <div class="total"><a href="./export.php" class="download-file">Download</a></div>
             </div>
         </div>

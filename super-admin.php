@@ -72,7 +72,7 @@ if ($roleAccess != 1) {
 
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-             <!-- <nav class="nav-menu d-none d-lg-block">
+             <!-- <nav class="nav-menu d-none d-xl-block">
                   <ul>                
                       <li><a href="./dashboard/sa/ep/saep-dashboard.php" class="employee">Employee</a></li>
                       <li><a href="./dashboard/sa/er/saer-dashboard.php" class="employer">Employer</a></li>
@@ -81,7 +81,7 @@ if ($roleAccess != 1) {
                       <li class="pt-0 pl-0"><a href = "./snippets/logout.php" class="employee-btn scrollto">Logout</a></li>
                   </ul>
                 </nav>-->
-                <nav class="nav-menu d-none d-lg-block">
+                <nav class="nav-menu d-none d-xl-block">
                     <ul>
                       <li class="drop-down scrolltoDrop"><a href="#">Staffing Solutions</a> 
                         <ul>

@@ -52,7 +52,7 @@
       <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       
-      <nav class="nav-menu d-none d-lg-block">
+      <nav class="nav-menu d-none d-xl-block">
         <ul>
           <li class=""><a href="/">Home</a></li>
           <li><a href="/#about">About </a> </li>         

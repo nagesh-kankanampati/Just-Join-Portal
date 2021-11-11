@@ -98,7 +98,7 @@ if ($roleAccess != 0) {
         <div class="container d-flex align-items-center">
             <h1 class="logo mr-auto"><a href="../../../index.html"><img src="../../../assets/img/logo-trim.png"></a></h1>
           
-            <nav class="nav-menu d-none d-lg-block">
+            <nav class="nav-menu d-none d-xl-block">
                 <ul>                
                     <li class="drop-down scrolltoDrop"><a href="#">Staffing Solutions</a> 
                         <ul>

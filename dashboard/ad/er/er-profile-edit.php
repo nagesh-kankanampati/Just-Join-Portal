@@ -68,7 +68,7 @@ if ($roleAccess != 0) {
     <header id="header" class="fixed-top ">
       <div class="container d-flex align-items-center">
           <h1 class="logo mr-auto"><a href="/JJ/index.html"><img src="../../../assets/img/logo-trim.png"></a></h1>
-          <nav class="nav-menu d-none d-lg-block">
+          <nav class="nav-menu d-none d-xl-block">
             <ul>              
               <li><a href="../ep/adep-dashboard.php" class="btn btn-block">Employee</a></li>
               <li><a href="../er/ader-dashboard.php" class="btn btn-danger btn-block employee">Employer</a></li>
