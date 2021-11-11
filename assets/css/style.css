@@ -440,8 +440,8 @@ li .employee-btn, li .employer-btn,li .employee-btn:hover, li .employer-btn:hove
   color: blue;
 }
 .download-file{
-  border: 2px solid #28a745;
-  background:#28a745;
+  border: 2px solid #6c757d;
+  background:#6c757d;
 }
 .download-file:hover{
   color: white;
@@ -2210,7 +2210,10 @@ select{
 }
 .total{
   margin-bottom: 10px;
+  font-weight:800;
+  color:#000;
 }
+.total span{background: #6c757d; padding:3px 8px; border-radius: 5px;color:#fff;}
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
   padding: 4px 8px !important;
 }
@@ -2223,3 +2226,4 @@ select{
 #submit-btn[disabled]:hover{
   color: #fff !important;
 }
+.shadow-sm{box-shadow: 0 0 0 rgba(0,0,0,.0)!important}
