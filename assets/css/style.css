@@ -611,11 +611,11 @@ form{ padding:20px};
   padding-top: 160px;
 }
 
-#hero h1 {
+#hero .heading {
   margin: 0 0 10px 0;
   font-size: 32px;
   font-weight: 700;
-  line-height: 56px;
+  line-height: 38px;
   color: #fff;
 }
 
@@ -690,7 +690,7 @@ form{ padding:20px};
 }
 
 @media (max-width: 768px) {
-  #hero h1 {
+  #hero .heading {
     font-size: 22px;
     line-height: 28px;
   }
