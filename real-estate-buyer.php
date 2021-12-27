@@ -91,7 +91,7 @@
   </header><!-- End Header -->
   <div class="container mt160">
   <div class="text-right mt-5">
-    <span class="helpline">Need Help on filling the application? please call : 9632642380</span>
+    <span class="helpline">Need Help on filling the application? please call : 97 3636 6464, 97 3636 8484</span>
     </div>
     <div class="panel employee-panel-primary">
       <div class="panel-heading"> Want to  buy property (Ex: House, Land, Agriculture Land ...)? Please fill the below application</div>
@@ -170,26 +170,30 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Just Join</h3>
+        <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>just-join.in</h3>
             <p>
-              Narasaraopet <br>
-              Guntur, Andrapradesh<br>
-              <strong>Phone:</strong> +91 9632642380<br>
-              <strong>Email:</strong> nagesh.kankanampati@gmail.com<br>
+              Narasaraopet <br />
+              Guntur, Andrapradesh<br />
+              <strong>Phone:</strong> +91 97 3636 6464, 97 3636 8484<br />
+              <strong>Email:</strong> nagesh.justjoin@gmail.com<br />
             </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-         <h4>Useful Links</h4>
-         <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+            <h4>Quick Links</h4>
+            <ul>
+          <!--    <li><i class="bx bx-chevron-right"></i> <a href="/index.html">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/#about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/employer.php">Looking Employee?</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="/employee.php">Need Job?</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li> -->
+              <li><i class="bx bx-chevron-right"></i> <a href="/employer.php">Looking Employee</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/employee.php">Need Job</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/real-estate-seller.php">Sell Property</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/real-estate-buyer.php"> Buy Property</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/car-seller.php">Sell a Car</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/car-buyer.php"> Buy a Car</a></li>
             </ul>
-       </div>
+          </div>
 
        <div class="col-lg-3 col-md-6 footer-links">
          <h4>Our Services</h4>
@@ -203,10 +207,9 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Social Networks</h4>
 
-            <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <div class="social-links mt-3">             
+              <a href="https://www.facebook.com/profile.php?id=100075155240790" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/justjoin.in/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
              <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
               <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>-->
             </div>
@@ -240,9 +243,7 @@
     </div>
 
     <div class="container footer-bottom clearfix">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Just Join</span></strong>. All Rights Reserved
-      </div>
+      <div class="copyright"></div>
       <div class="credits">
         Designed by <a href="https://just-join.in/">Just Join</a>
       </div>
