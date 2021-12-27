@@ -50,10 +50,13 @@ if ($roleAccess < 0) {
                         <div class="col-md-4"><img class="img" alt="Template" src="../../../assets/img/logo-trim.png" /> 
                     </div>
                         <div class="col-md-8 text-right address">
-                            <h4 style="color: #f80505;"><strong>Just Join</strong></h4>
-                            <p>221,  Andhra Pradesh</p>
-                            <p>1800-234-124</p>
-                            <p>just-join@gmail.com</p>
+                        <h4 style="color: #f80505;">just-join.in</h4>
+                        <p>
+                            Narasaraopet <br />
+                            Guntur, Andrapradesh<br />
+                            <strong>Phone:</strong> +91 97 3636 6464, 97 3636 8484<br />
+                            <strong>Email:</strong> nagesh.justjoin@gmail.com<br />
+                         </p>
                         </div>
                     </div> <br />
                     <div class="row">
@@ -69,7 +72,7 @@ if ($roleAccess < 0) {
                                     
                             ?>
                             <div class="col-md-12 text-center">
-                                    <h2>CAR DATA</h2>
+                                    <h2>Car Buyer Data</h2>
                                     <h5>JJ0<?php echo $row['id']?></h5>
                                 </div>
                             </div>
